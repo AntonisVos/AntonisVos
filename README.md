@@ -6,6 +6,8 @@ Exploring cybersecurity through hands-on projects and real-world problem solving
 
 - **[Vulnerability Management Program Implementation](https://github.com/AntonisVos/Vulnerability-Management-Program/blob/main/README.md)**
 
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
 
 <hr/>
 
