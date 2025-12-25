@@ -11,7 +11,7 @@ Exploring cybersecurity through hands-on projects and real-world problem solving
 
 ## 🚨 Threat Hunting and Security Operations
 
-**[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/AntonisVos/Threat-Hunting-Scenario-Tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/AntonisVos/Threat-Hunting-Scenario-Tor)**
 
 
 <hr/>
