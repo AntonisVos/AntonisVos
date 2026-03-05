@@ -2,7 +2,7 @@
 
 Exploring cybersecurity through hands-on projects and real-world problem solving
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management
 
 - **[Vulnerability Management Program Implementation](https://github.com/AntonisVos/Vulnerability-Management-Program/blob/main/README.md)**
 
