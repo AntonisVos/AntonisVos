@@ -8,6 +8,7 @@ Exploring cybersecurity through hands-on projects and real-world problem solving
 
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/AntonisVos/Programmatic-Vulnerability-Remediations)**
 
+- **[STIGS](https://github.com/AntonisVos/Programmatic-Vulnerability-Remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
